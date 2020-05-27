@@ -22,6 +22,11 @@ body{
     font-family:'Montserrat';
     transition: 0.5s;
 }
+#credits p{
+    color: #000;
+    padding: 1vw 200px;
+    font-size: 2.5vw;
+}
 .tab-item:hover {
     font-size: 2vw;
     color: #000;
@@ -31,17 +36,32 @@ body{
 }
 #quotes{
     text-align: center;
-    margin-top: 12vw;
+    margin-top: 8vw;
+    color:#db2b39;
+    font-size: 2vw;
+}
+#thankyou{
+    text-align: center;
+    margin-top: 8vw;
+    color:#db2b39;
+    font-size: 2vw;
+}
+#credits{
+    text-align: center;
+    margin-top: 8vw;
     color:#db2b39;
     font-size: 2vw;
 }
 hr{
-    margin-top: 10vw;
+    margin-top: 8vw;
 }
 #quotes p {
     font-family: 'Montserrat';
     font-size: 3vw;
     color: #373E40;
+}
+#new p{
+    color: #000;
 }
 #navbar{
     background-color: #fe5f55;
